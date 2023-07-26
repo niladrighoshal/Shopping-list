@@ -46,7 +46,7 @@ To run this application locally, you need to:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/shopping-list.git
+   https://github.com/niladrighoshal/Shopping-list.git
 2. Open the index.html file in your web browser.
 
 3. Start using the Shopping List application as described in the "How to Use" section above.
