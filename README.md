@@ -6,7 +6,7 @@
 
 The Shopping List Web Application is a simple tool that allows users to manage their shopping list efficiently. The application provides a user-friendly interface for adding, editing, and removing items from the list. It's built using HTML, CSS, and JavaScript, making it lightweight and responsive.
 
-![Front Page](link_to_screenshot.png)
+![Front Page](./banner.png)
 
 ## Functionality
 
@@ -16,11 +16,11 @@ The Shopping List Web Application is a simple tool that allows users to manage t
 
 - Remove Items: To remove an item from the shopping list, users can click the "Delete" button next to the item, and it will be instantly removed.
 
-![Demo GIF](link_to_demo.gif)
+![Demo GIF](./tutorial.gif)
 
 ## How to Use
 
-1. Visit the live website: [Shopping List App](https://example.com/shopping-list) (replace `example.com` with the actual URL).
+1. Visit the live website: [Shopping List App]([https://example.com/shopping-list](https://ng-shopping-list.netlify.app/))
 
 2. Add Items:
    - Enter the name of the item you want to add to your shopping list in the input field.
