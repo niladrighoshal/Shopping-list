@@ -20,7 +20,7 @@ The Shopping List Web Application is a simple tool that allows users to manage t
 
 ## How to Use
 
-1. Visit the live website: [Shopping List App]([https://example.com/shopping-list](https://ng-shopping-list.netlify.app/))
+1. Visit the live website: [Shopping List App](https://ng-shopping-list.netlify.app/)
 
 2. Add Items:
    - Enter the name of the item you want to add to your shopping list in the input field.
@@ -51,15 +51,16 @@ To run this application locally, you need to:
 
 3. Start using the Shopping List application as described in the "How to Use" section above.
 
-Dependencies
+## Dependencies
 This project uses the following external libraries:
 
-Font Awesome: Used to provide icons for buttons in the application.
-License
-This project is licensed under the MIT License.
+- Font Awesome: Used to provide icons for buttons in the application.
+  
+- License: This project is licensed under the MIT License.
 
-Contact
+## Contact
 For any questions or inquiries, feel free to contact the project maintainer:
 
 Name: Niladri Ghoshal
+
 Email: niladrighoshal.14@gmail.com
